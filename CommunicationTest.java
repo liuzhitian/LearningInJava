@@ -1,6 +1,6 @@
 /***
  * 线程一二交替打印1-100的数字
- *
+ * 112233
  *
 */
 class Number implements Runnable{
